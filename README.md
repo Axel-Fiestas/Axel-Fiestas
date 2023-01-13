@@ -16,13 +16,12 @@
 ---
 
 <div align="left">
-    <h3>🔭Lenguages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width:"40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width:"40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width:"40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width:"40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width:"40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width:"40" height="40">&nbsp;
-    </div>
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,cpp,csharp&includeNames=true" width=500>
+    <br>
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,tailwind&includeNames=true" width=500>
+    <br>
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git&includeNames=true" width=500>
+    
 </div>
+
+
