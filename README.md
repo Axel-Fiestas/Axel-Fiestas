@@ -9,7 +9,7 @@
 ### About Me Person
 -😄 I´m **20 years** old 
 
--🌱 I am currently learning **Java**
+-🌱 I am currently learning **Flutter, Angular and Java**
 
 -💬 You can contact me by **joshuefiestas@gmail.com**
 
