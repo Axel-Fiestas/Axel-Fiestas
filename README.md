@@ -11,8 +11,6 @@
 
 -🌱 I am currently learning **Flutter, Angular and Java**
 
--💬 You can contact me by **joshuefiestas@gmail.com**
-
 ---
 
 <div align="left">
