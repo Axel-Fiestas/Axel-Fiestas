@@ -9,7 +9,7 @@
 ### About Me Person
 -😄 I´m **21 years** old 
 
--🌱 I am currently learning **Flutter, Angular and Java**
+-🌱 I am currently learning **Angular and Java**
 
 ---
 
