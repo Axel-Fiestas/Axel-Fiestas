@@ -9,7 +9,7 @@
 ### About Me Person
 -😄 I´m **21 years** old 
 
--🌱 I am currently learning **REACT**
+-🌱 I am currently learning **REACT** and **JAVA**
 
 ---
 
