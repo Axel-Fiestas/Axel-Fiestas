@@ -3,7 +3,6 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED0E&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Axel;I%C2%B4m+happy+with+you+here" alt="Typing SVG" />
     </a>
-    <h1 align="center">Hi,everybody</h1>
     <h5 align="center">
        I am a programmer who loves to make useful and functional solutions. At the moment I am aspiring to be a full web stack developer but with a slight inclination          for the backend.</h3>
 </div>
