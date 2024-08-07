@@ -7,9 +7,9 @@
 
 ---
 ### About Me Person
--😄 I´m **21 years** old 
+-😄 I´m **22 years** old 
 
--🌱 I am currently learning **ANGULAR** and **JAVA**
+-🌱 I am currently learning **ANGULAR** and **PHP**
 
 ---
 
