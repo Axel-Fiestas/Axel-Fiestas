@@ -8,15 +8,6 @@
     </h5>
 </div>
 
-<style>
-  #header {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Centra los elementos horizontalmente */
-    gap: 20px; /* Espacio entre los elementos */
-  }
-</style>
-
 ---
 ### About Me Person
 -😄 I´m **22 years** old 
@@ -35,3 +26,11 @@
 </div>
 
 
+<style>
+  #header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra los elementos horizontalmente */
+    gap: 20px; /* Espacio entre los elementos */
+  }
+</style>
