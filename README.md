@@ -1,4 +1,7 @@
 <div id="header" align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <h1>
+         <img src="https://wallpapers.com/images/hd/black-and-white-aesthetic-tree-at-lake-bfrrf8eocschry9b.jpg" width="200"/>
+    </h1>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED0E&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Axel;I%C2%B4m+happy+with+you+here" alt="Typing SVG" />
     </a>
