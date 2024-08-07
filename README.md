@@ -22,11 +22,7 @@
 ---
 
 <div align="left">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,cpp,csharp&includeNames=true&theme=darkmode" width=300>
-    <br>
-    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,tailwind&includeNames=true&theme=darkmode" width=300>
-    <br>
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git&includeNames=true](https://github-widgetbox.vercel.app/api/skills?tools=git&includeNames=true&theme=darkmode" width=300>
-    
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </div>
 
