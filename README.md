@@ -1,12 +1,13 @@
-<div id="header" align="center">
+<div id="header" align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img src="https://wallpapers.com/images/hd/black-and-white-aesthetic-tree-at-lake-bfrrf8eocschry9b.jpg" width="200"/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED0E&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Axel;I%C2%B4m+happy+with+you+here" alt="Typing SVG" />
     </a>
-    <h5 align="center">
+    <h5>
        I am a programmer who loves to make useful and functional solutions. At the moment I am aspiring to be a full web stack developer but with a slight inclination for the backend.
     </h5>
 </div>
+
 
 ---
 ### About Me Person
@@ -25,12 +26,3 @@
     
 </div>
 
-
-<style>
-  #header {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Centra los elementos horizontalmente */
-    gap: 20px; /* Espacio entre los elementos */
-  }
-</style>
