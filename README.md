@@ -17,7 +17,7 @@
 ### About Me Person
 -😄 I´m **22 years** old 
 
--🌱 I am currently learning **ANGULAR** and **PHP**
+-🌱 I am currently learning **JAVA**, **PHP** and **REACT**
 
 ---
 
