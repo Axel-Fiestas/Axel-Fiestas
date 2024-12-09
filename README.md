@@ -17,7 +17,7 @@
 ### About Me Person
 -😄 I´m **22 years** old 
 
--🌱 I am currently learning **JAVA**, **PHP** and **REACT**
+-🌱 I am currently learning **JAVA**, **SPRING BOOT** ,**SPRING DATA JPA** and **SPRING FRAMEWORK**
 
 ---
 
