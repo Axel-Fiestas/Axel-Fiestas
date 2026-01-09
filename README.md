@@ -8,16 +8,16 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED0E&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Axel;I%C2%B4m+happy+with+you+here" alt="Typing SVG" />
     </a>
     <h5>
-       I am a programmer who loves to make useful and functional solutions. At the moment I am aspiring to be a full web stack developer but with a slight inclination for the backend.
+        I am a software engineer who loves building useful and functional solutions. Currently, I work with C#.
     </h5>
 </div>
 
 
 ---
 ### About Me Person
--😄 I´m **22 years** old 
+-😄 I´m **23 years** old 
 
--🌱 I am currently learning **JAVA**, **SPRING BOOT** ,**SPRING DATA JPA** and **SPRING FRAMEWORK**
+-🌱 I am currently learning **C#**, **.NET** ,**DEV EXPRESS** and **PSQL**
 
 ---
 
